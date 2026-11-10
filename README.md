@@ -26,17 +26,17 @@ My research combines climate dynamics, predictability science, machine learning,
 
 ## Selected Open-Source Projects
 
-🌏 ICU Water Watch  
-Drought monitoring and forecasting for Pacific Island countries.
+- 🌏 **[ICU Water Watch](https://github.com/nicolasfauchereau/ICU_Water_Watch)**  
+  Drought monitoring and forecasting for Pacific Island countries.
 
-🌊 MetOcean  
-Python tools for atmosphere-ocean science and engineering.
+- 🌊 **[MetOcean](https://github.com/nicolasfauchereau/metocean)**  
+  Python tools for atmosphere-ocean science and engineering.
 
-🐍 Python for Environmental Science  
-Scientific Python training resources for environmental scientists.
+- 🐍 **[Python for Environmental Science](https://github.com/nicolasfauchereau/Python-for-data-analysis-and-visualisation)**  
+  Scientific Python training resources for environmental scientists.
 
-🚲 Auckland Cycling  
-Exploring weather impacts on active transport.
+- 🚲 **[Auckland Cycling](https://github.com/nicolasfauchereau/Auckland_Cycling)**  
+  Exploring weather impacts on active transport.
 
 ## Tools
 
