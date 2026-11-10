@@ -58,6 +58,3 @@ Interested in collaborations related to:
 📫 nicolas.fauchereau@earthsciences.nz
 
 🌐 https://nicolasfauchereau.github.io
-
-
-My strongest recommendation would be to emphasize"Climate Predictability + Forecasts of Opportunity + Explainable AI". That combination is distinctive, reflects your current research direction, and differentiates you from the many GitHub profiles that simply say "climate scientist using machine learning".
